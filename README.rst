@@ -20,6 +20,7 @@ Agronopy
 
 Python toolkit for agronomist and agricultural scientist
 
+WORK IN PROGRESS
 
 * Free software: MIT license
 * Documentation: https://agronopy.readthedocs.io.
