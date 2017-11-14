@@ -10,7 +10,7 @@ Agronopy
         :target: https://travis-ci.org/farmlab/agronopy
 
 .. image:: https://readthedocs.org/projects/agronopy/badge/?version=latest
-        :target: https://agronopy.readthedocs.io/en/latest/?badge=latest
+        :target: https://agronopy.readthedocs.io/en/latest
         :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/farmlab/agronopy/shield.svg
