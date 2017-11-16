@@ -18,15 +18,12 @@ deploy:
       MjNYb1NJMWpYR1VUd2NPVFJ0c0J0ODI0VWZneGFCQ0lLV2hCZzA1OG43cW5La0Y0bDJWOTZpUHM9
   user: farmlab
   true:
-    python: 2.7
+    python: 3.5
     repo: farmlab/agronopy
     tags: true
 install: pip install -U tox-travis
 language: python
 python:
 - 3.5
-- 3.4
-- 3.3
 - 2.7
-- 2.6
 script: tox

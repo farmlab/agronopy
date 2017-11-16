@@ -32,7 +32,7 @@ setup(
     author="Jérôme Dury",
     author_email='jerome.dury@flyingsheep.fr',
     url='https://github.com/farmlab/agronopy',
-    packages=find_packages(include=['agronopy']),
+    packages=find_packages(include=['agronopy', 'crop']),
     entry_points={
         'console_scripts': [
             'agronopy=agronopy.cli:main'
